@@ -147,6 +147,7 @@ for el in crs_titles:
 ### Scraping with Children
 
 ```
+
 # Calculate the number of children of the mystery element
 how_many_kids = len(mystery.xpath('./*'))
 

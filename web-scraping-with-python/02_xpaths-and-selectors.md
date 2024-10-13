@@ -76,7 +76,7 @@ sel.xpath('//div').xpath('./span/p[3]')
 
 ### Divvy Up This Exercise
 
-```
+```python
 from scrapy import Selector
 
 # Create a Selector selecting html as the HTML document
